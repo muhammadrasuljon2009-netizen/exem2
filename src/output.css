@@ -187,9 +187,12 @@
   }
   .-mt-100 {
     margin-top: calc(var(--spacing) * -100);
+<<<<<<< HEAD
   }
   .mt-2 {
     margin-top: calc(var(--spacing) * 2);
+=======
+>>>>>>> 3d2aa918ca40d263502930265d1ba5ab6f807e69
   }
   .mt-3 {
     margin-top: calc(var(--spacing) * 3);
@@ -214,24 +217,6 @@
   }
   .ml-10 {
     margin-left: calc(var(--spacing) * 10);
-  }
-  .ml-15 {
-    margin-left: calc(var(--spacing) * 15);
-  }
-  .ml-40 {
-    margin-left: calc(var(--spacing) * 40);
-  }
-  .ml-120 {
-    margin-left: calc(var(--spacing) * 120);
-  }
-  .ml-130 {
-    margin-left: calc(var(--spacing) * 130);
-  }
-  .ml-140 {
-    margin-left: calc(var(--spacing) * 140);
-  }
-  .ml-150 {
-    margin-left: calc(var(--spacing) * 150);
   }
   .flex {
     display: flex;
@@ -305,9 +290,6 @@
   .gap-4 {
     gap: calc(var(--spacing) * 4);
   }
-  .gap-5 {
-    gap: calc(var(--spacing) * 5);
-  }
   .gap-10 {
     gap: calc(var(--spacing) * 10);
   }
@@ -369,12 +351,6 @@
   .font-semibold {
     --tw-font-weight: var(--font-weight-semibold);
     font-weight: var(--font-weight-semibold);
-  }
-  .text-balance {
-    text-wrap: balance;
-  }
-  .text-wrap {
-    text-wrap: wrap;
   }
   .text-\[\#3BB96D\] {
     color: #3BB96D;
